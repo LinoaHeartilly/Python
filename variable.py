@@ -16,6 +16,5 @@ print(plateformes_sociales)
 print(plateformes_sociales[4])
 plateformes_sociales.remove(plateformes_sociales[2])
 print(plateformes_sociales)
-taille ='Taille de la liste : ' +str(len(plateformes_sociales))
+taille = 'Taille de la liste : ' + str(len(plateformes_sociales))
 print(taille)
-
