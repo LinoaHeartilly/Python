@@ -18,3 +18,20 @@ plateformes_sociales.remove(plateformes_sociales[2])
 print(plateformes_sociales)
 taille = 'Taille de la liste : ' + str(len(plateformes_sociales))
 print(taille)
+
+
+# Les dictionnaires
+print('Ce qui fera suite est un traitement de dictionnaire : ')
+taux_de_conversion ={}
+taux_de_conversion['facebook'] = 3.4
+taux_de_conversion['instagram'] = 1.2
+print(taux_de_conversion['facebook'])
+print(taux_de_conversion)
+
+del taux_de_conversion['instagram']
+print('Après passage du del : ')
+print(taux_de_conversion)
+
+# Possibilité de tester occurence dans un dictionnaire :
+print('poids' in taux_de_conversion)
+print('facebook' in taux_de_conversion)
