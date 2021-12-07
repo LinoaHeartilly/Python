@@ -1,0 +1,14 @@
+Pour le projet dofus
+Faire une interface graphique bien évidemment et lier le tout à une BDD
+Filtre par :
+- somme voulant être investie
+- nombre d'item à craft
+- nombre de jour moyen sous lequel ça doit partir (Si on est pas pressé... autant faire un meilleur placement sur le long terme :p)
+
+Retourne :
+- le gain estimé pour la dépense en comptant la taxe +  runage
+- Le nom des items ainsi que leur niveau + métier
+
+Pas besoin d'afficher le craft -> demanderait beaucoup trop de ressource à renseigner pour rien
+
+Possibilité d'ajouter une astuce, mettre des favoris et donc de les consulter
