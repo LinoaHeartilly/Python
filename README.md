@@ -14,3 +14,5 @@ On valide sa branche locale git commit -am "livraison test claire et précis"
 On récupère notre joli dev bien commenté depuis notre branche de dev git merge dev
 
 On envoi vers le serveur git git push origin test
+
+Penser à bien installer git avant d'ouvrir Pycharm :D  
